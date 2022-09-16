@@ -1,0 +1,91 @@
+/*NavBar*/
+ /*Se utilizaron de preferencia los colores de Bootstrap para los nav y formulario bg-success*/
+
+.navbar {
+    font-family: 'Roboto', sans-serif;
+    /*background-color: #28A745;*/
+}
+
+
+.nav-link {
+    color: white;
+    font-size: 18px;
+}
+.img{
+    margin-left: 10%;
+}
+
+/*Cards*/
+
+.card-title {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    color: #212529;
+    font-size: 20px;
+}
+
+.card-text {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    color: #707070;
+    font-size: 16px;
+}
+
+.d-flex {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    color: #707070;
+    font-size: 14px;
+}
+
+.precio-normal {
+    text-align: right;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    font-size: 16px;
+}
+
+.precio-oferta {
+    color: #28A745;
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    font-size: 20px;
+}
+
+/*Formulario*/
+
+.container-fluid {
+    /*background-color: #28A745;*/
+    padding: 30px;
+}
+
+.btn {
+    width: 112px;
+    height: 40px;
+}
+
+
+.text-center{
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    color: rgb(255, 255, 255);
+    font-size: 21px;
+    margin: 0px;
+    padding: 20px;
+}
+
+.btn {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 500;
+    color: #212529;
+}
+
+/*Footer*/
+
+.derechos {
+    font-family: 'Roboto', sans-serif;
+    font-weight: 300;
+    font-size: 16px;
+    color: #707070;
+    margin: 0px;
+}
